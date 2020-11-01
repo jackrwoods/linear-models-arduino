@@ -1,4 +1,4 @@
-# linear-models-arduino
+# Arduino Linear Model Evaluator
 
 ## Introduction
 
