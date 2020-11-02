@@ -48,3 +48,7 @@ void loop {
 	double result = l.evaluate(inputs);
 }
 ```
+
+## Still Having Issues?
+
+Download the linear model test sketch provided in this repo `linear_model_test_sketch.zip`. That was tested and is working with an Arduino Uno as of 11/1/2020.
